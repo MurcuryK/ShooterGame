@@ -1,0 +1,59 @@
+﻿  main.cpp
+  BulletManager.cpp
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(20,33): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(31,56): warning C4244:  '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(32,56): warning C4244:  '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(47,25): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(47,25): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(47,30): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(47,30): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(59,25): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(59,25): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(59,30): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(59,30): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(71,25): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(71,25): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(71,30): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(71,30): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(83,25): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(83,25): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(83,30): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(83,30): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(95,25): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(95,25): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(95,30): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(95,30): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(110,25): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(110,25): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(110,30): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(110,30): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(125,25): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(125,25): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(125,30): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(125,30): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(140,25): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(140,25): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(140,30): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(140,30): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(168,22): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(168,22): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(168,27): warning C4838:  conversion from 'float' to 'int' requires a narrowing conversion
+  GameLoop.cpp
+  Player.cpp
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.cpp(168,27): warning C4244:  'initializing': conversion from 'float' to 'int', possible loss of data
+  TextRenderer.cpp
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\Player.cpp(49,38): warning C4018:  '>': signed/unsigned mismatch
+  TileMap.cpp
+  Compiling...
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\TextRenderer.cpp(32,5): warning C4102:  'std': unreferenced label
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\GameLoop.cpp(75): warning C4715: 'GameLoop::init': not all control paths return a value
+  All 176 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameLoop.vcxproj -> C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\Release\GameLoop.exe
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\GameLoop.cpp(13): warning C26495: Variable 'GameLoop::renderer' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\GameLoop.cpp(95): warning C6386: Buffer overrun while writing to 'this->keyDown':  the writable size is '256' bytes, but 'e.key.keysym.scancode' bytes might be written.
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\TileMap.h(40): warning C26495: Variable 'TileMap::mapTileset' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\BulletManager.h(27): warning C26495: Variable 'BulletManager::bulletTexture' is uninitialized. Always initialize a member variable (type.6).
+C:\Users\nikih\Desktop\Programming\C++\cmp5327-c-programming-for-games-assessment-BraveSmartDild\ShooterGame\GameLoop\GameLoop\Player.cpp(10): warning C26495: Variable 'Player::texture' is uninitialized. Always initialize a member variable (type.6).
